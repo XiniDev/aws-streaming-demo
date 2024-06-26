@@ -1,3 +1,6 @@
+# Disabled Link
+Link for video disabled because I am not making accidental payments for AWS
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
